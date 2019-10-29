@@ -5,9 +5,6 @@ import './BusinessList.css';
 import Business from '../Business/Business';
 
 class BusinessList extends Component {
-    constructor(props) {
-        super(props);
-    }
 
     render() {
 

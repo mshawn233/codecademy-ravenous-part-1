@@ -22,7 +22,7 @@ class Business extends Component {
         return <>
             <div className='Business'>
                 <div className='image-container'>
-                    <img src='https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/pizza.jpg' />
+                    <img src='https://s3.amazonaws.com/codecademy-content/programs/react/ravenous/pizza.jpg' alt='' />
                 </div>
                 <h2>{this.state.name}</h2>
                 <div className='Business-information'>
